@@ -1,0 +1,165 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    list-style: none;
+    text-decoration: none;
+
+}
+:root{
+    --yashil:#68BF3C;
+}
+.align-center{
+    align-items: center;
+}
+.align-start{
+    align-items: flex-start;
+}
+.d_flex{
+    display: flex;
+}
+.justfy-center{
+    justify-content: center;
+}
+.justfy-between{
+    justify-content: space-between;
+}
+.flex-column{
+    flex-direction: column;
+}
+.container{
+    width: 1140px;
+
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+header{
+    background: url(./header_bg\ 1.jpg);
+    width: 1440px;
+    height: 768px;
+    flex-wrap: wrap;
+    margin: auto;
+    color: white;
+}
+.btn_btn-primary{
+    width: 200px;
+    height: 50px;
+    background-color:var(--yashil);
+    border-radius: 30px;
+    margin:36px 0px 0px 0px ;
+}
+.span_1{
+    font-size: 24px;
+    width: 250px;
+    margin:41px 11px 0px 0px;
+
+}
+.h3_1{
+    font-size: 34px;
+    width: 100px;
+    margin: 41px 490px 0px 0px;
+}
+.h3_2{
+    margin: 189px 0px 0px 0px ;
+}
+.h1_1{
+    font-size: 72px;
+}
+.btn-btn-primary{
+    width: 200px;
+    height: 50px;
+    background-color:var(--yashil);
+    border-radius: 30px;
+}
+section{
+    margin: 79px 0px 70px 0px;
+}
+.img_1{
+    width: 360px;
+    height: 428px;
+}
+.h2_1{
+    font-size: 36px;
+    color: var(--yashil);
+    margin: 0px 0px 47px 0px;
+}
+.blok_22{
+    width: 713px;
+}
+.p_2{
+    font-size: 24px;
+    margin: 61px 0px 0px 0px;
+}
+.img_2{
+    width: 152px;
+    height: 152px;
+}
+.h1_2{
+    color: var(--yashil);
+    font-size: 36px;
+}
+.imj{
+    background: url(./Слой\ 1\ 1.png);
+    width: 350px;
+    height: 250px;
+}
+.chegirma{
+    background: var(--yashil);
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    margin: 30px 259px 160px 31px;
+}
+.foiz{
+    color: white;
+    font-size: 20px;
+    padding: 12px 07px;
+}
+.masaliq{
+    width: 332px;
+    margin: 0px 0px 24px 30px;
+}
+.h3_3{
+    width: 332px;
+    font-size: 30px;
+    height: auto;
+    margin: 15px 0px 24px 30px;
+}
+.mk{
+    margin: 10px auto 0px;
+}
+.mg{
+    width: 332px;
+    height: 250px;
+}
+.narx{
+    font-size: 28px;
+    width: 170px;
+    margin: 40px 0px 20px 30px;
+}
+.mb{
+    width: 332px;
+    height: 250px;
+    margin: 10px 0px 0px 150px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
